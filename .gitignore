@@ -3,7 +3,7 @@
 # ====================
 
 # Dependencies
-frontend/node_modules/
+frontend/survey/node_modules/
 frontend/.pnp
 frontend/.pnp.js
 frontend/yarn-error.log
@@ -11,7 +11,7 @@ frontend/npm-debug.log*
 frontend/yarn-debug.log*
 
 # Production builds
-frontend/.next/
+frontend/survey/.next/
 frontend/out/
 frontend/build/
 frontend/dist/
